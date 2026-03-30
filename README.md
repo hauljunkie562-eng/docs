@@ -504,6 +504,7 @@ setUser @ main.7a115872.js:2
 w @ main.7a115872.js:2
 (anonymous) @ main.7a115872.js:2
 Promise.then
+permissions-policy-depreiate
 (anonymous) @ main.7a115872.js:2
 (anonymous) @ main.7a115872.js:2
 Promise.then
